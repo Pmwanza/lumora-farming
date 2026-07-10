@@ -20,7 +20,7 @@ export default function Hero() {
         </h1>
 
         <p className="mt-4 text-xl text-gray-300 max-w-2xl mb-10 leading-relaxed font-light">
-          Advanced drone spraying, spreading, and seeding solutions engineered for African agricultural conditions. Increase efficiency, lower costs, and protect your crops with pinpoint accuracy.
+          Advanced Drone Spraying, Seeding, Spreading, and Mapping solutions engineered for African agricultural conditions. Increase efficiency, lower costs, and protect your crops with pinpoint accuracy.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
@@ -28,7 +28,7 @@ export default function Hero() {
             href="#contact"
             className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold rounded-full text-primary bg-brand hover:bg-brand-light transition-all duration-300 shadow-lg shadow-brand/25 group"
           >
-            Book a Flight
+            Book a Service
             <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </a>
           <a
