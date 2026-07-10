@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer id="contact" className="bg-primary pt-24 pb-12 border-t border-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
+
         {/* High-Impact Conversion Block */}
         <div className="bg-tech-gray rounded-3xl p-8 md:p-16 mb-20 relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-brand/10 rounded-full blur-3xl -mr-20 -mt-20"></div>
@@ -22,7 +22,7 @@ export default function Footer() {
                 <div className="w-12 h-12 rounded-full bg-brand flex items-center justify-center text-white">
                   <Phone className="w-5 h-5" />
                 </div>
-                <span>Call us direct: +260 97 000 0000</span>
+                <span>Call us direct: +260 76 013 3520</span>
               </div>
             </div>
 
@@ -47,11 +47,11 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12 border-b border-gray-800 pb-12">
           <div>
             <Link href="/" className="inline-flex mb-6 bg-white p-2 rounded-xl">
-              <Image 
-                src="/logo.png" 
-                alt="Lumora Farming" 
-                width={120} 
-                height={120} 
+              <Image
+                src="/logo.png"
+                alt="Lumora Farming"
+                width={120}
+                height={120}
                 className="h-14 w-auto"
               />
             </Link>
@@ -73,7 +73,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center text-gray-400 text-sm">
                 <Phone className="w-5 h-5 mr-3 text-brand flex-shrink-0" />
-                +260 97 000 0000
+                +260 76 013 3520
               </li>
             </ul>
           </div>
