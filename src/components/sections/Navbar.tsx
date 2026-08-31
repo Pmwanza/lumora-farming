@@ -10,12 +10,12 @@ export default function Navbar() {
 
   const leftNavLinks = [
     { name: "Home", href: "/" },
-    { name: "Services", href: "#services" },
+    { name: "Services", href: "/services" },
   ];
 
   const rightNavLinks = [
-    { name: "Technology", href: "#technology" },
-    { name: "FAQ", href: "#faq" },
+    { name: "Technology", href: "/technology" },
+    { name: "FAQ", href: "/faq" },
   ];
 
   return (
@@ -64,7 +64,7 @@ export default function Navbar() {
               ))}
             </div>
             <a
-              href="#contact"
+              href="/contact"
               className="inline-flex items-center justify-center px-6 py-2.5 border border-transparent text-sm font-medium rounded-full text-white bg-primary hover:bg-gray-800 transition-colors shadow-sm"
             >
               Book a Service
@@ -103,7 +103,7 @@ export default function Navbar() {
               </Link>
             ))}
             <a
-              href="#contact"
+              href="/contact"
               onClick={() => setIsOpen(false)}
               className="block w-full text-center mt-4 px-6 py-3 border border-transparent text-base font-medium rounded-md text-white bg-primary hover:bg-gray-800"
             >

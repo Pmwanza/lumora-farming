@@ -25,14 +25,14 @@ export default function Hero() {
 
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
           <a
-            href="#contact"
+            href="/contact"
             className="inline-flex items-center justify-center px-8 py-4 text-base font-semibold rounded-full text-primary bg-brand hover:bg-brand-light transition-all duration-300 shadow-lg shadow-brand/25 group"
           >
             Book a Service
             <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </a>
           <a
-            href="#services"
+            href="/services"
             className="inline-flex items-center justify-center px-8 py-4 text-base font-medium rounded-full text-white border border-gray-600 hover:border-gray-400 hover:bg-white/5 transition-all duration-300 backdrop-blur-sm"
           >
             Explore Services
