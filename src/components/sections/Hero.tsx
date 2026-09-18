@@ -15,13 +15,12 @@ export default function Hero() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-start text-left">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white tracking-tight leading-tight max-w-4xl mb-6">
-          Precision Agriculture. <br className="hidden md:block" />
-          <span className="text-brand">Maximized Yields.</span>
+         Lumora Farming | Agricultural Drone Services. <br className="hidden md:block" />
+          <span className="text-brand">Precision Agriculture in Zambia.</span>
         </h1>
 
         <p className="mt-4 text-xl text-gray-300 max-w-2xl mb-10 leading-relaxed font-light">
-          Advanced Drone Spraying, Seeding, Spreading, and Mapping solutions engineered for Zambian agricultural conditions. Increase efficiency, lower costs, and protect your crops with centimeter level accuracy.
-        </p>
+          Advanced Drone Spraying, Seeding & Spreading and Mapping solutions engineered for Zambian agricultural conditions.
 
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
           <a
