@@ -20,7 +20,7 @@ export default function Hero() {
         </h1>
 
         <p className="mt-4 text-xl text-gray-300 max-w-2xl mb-10 leading-relaxed font-light">
-          Advanced Drone Spraying, Seeding, Spreading, and Mapping solutions engineered for African agricultural conditions. Increase efficiency, lower costs, and protect your crops with pinpoint accuracy.
+          Advanced Drone Spraying, Seeding, Spreading, and Mapping solutions engineered for Zambian agricultural conditions. Increase efficiency, lower costs, and protect your crops with centimeter level accuracy.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
