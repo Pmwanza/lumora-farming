@@ -5,7 +5,7 @@ export default function Technology() {
     {
       icon: <Target className="w-6 h-6 text-brand" />,
       title: "Eliminate Uneven Application",
-      description: "Centimeter-level RTK positioning guarantees 100% coverage without overlaps or misses."
+      description: "RTK positioning and automated flight planning helps deliver consistent coverage while minimizing overlaps and missed areas.."
     },
     {
       icon: <Zap className="w-6 h-6 text-brand" />,
