@@ -4,7 +4,7 @@ export default function Services() {
   const services = [
     {
       title: "Drone Spraying",
-      description: "Crop protection, precision pest control, and liquid foliar fertilizer application with micron-level droplet control.",
+      description: "Crop protection, precision pest control and liquid foliar fertilizer application with micron-level droplet control.",
       icon: <Droplets className="w-8 h-8 text-brand" />,
       span: "col-span-1 md:col-span-2 lg:col-span-2 text-white bg-primary",
       headerColor: "text-white",
@@ -12,7 +12,7 @@ export default function Services() {
     },
     {
       title: "Drone Spreading",
-      description: "Even distribution of granular fertilizer, nutrients, and solid inputs over challenging terrains.",
+      description: "Even distribution of granular fertilizer, nutrients and solid inputs over challenging terrains.",
       icon: <Sprout className="w-8 h-8 text-brand" />,
       span: "col-span-1 md:col-span-1 lg:col-span-1 bg-tech-gray text-primary",
       headerColor: "text-primary",
@@ -28,7 +28,7 @@ export default function Services() {
     },
     {
       title: "Maintenance & Repairs",
-      description: "World-class local drone technical support, hardware servicing, and preventative maintenance to keep you flying.",
+      description: "World-class local drone technical support, hardware servicing and preventative maintenance to keep you flying.",
       icon: <Wrench className="w-8 h-8 text-brand" />,
       span: "col-span-1 md:col-span-2 lg:col-span-2 bg-tech-gray text-primary",
       headerColor: "text-primary",
