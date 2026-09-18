@@ -42,7 +42,7 @@ export default function Services() {
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-brand font-semibold tracking-wide uppercase text-sm mb-3">Core Services</h2>
           <h3 className="text-3xl md:text-5xl font-extrabold text-primary tracking-tight mb-6">
-            Engineered for the Modern Farm
+            Engineered for the Modern Zambian Farm
           </h3>
           <p className="text-lg text-gray-600">
             Comprehensive aerial solutions designed to maximize efficiency and minimize input waste across your entire operation.
