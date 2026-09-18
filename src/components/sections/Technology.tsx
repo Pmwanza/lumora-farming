@@ -27,7 +27,7 @@ export default function Technology() {
           {/* Left Column: Image Zone */}
           <div className="relative group rounded-3xl overflow-hidden shadow-2xl">
             <img 
-              src="/tech-bg.jpg" 
+              src="/mist.jpg" 
               alt="Agricultural Drone Technology" 
               className="w-full h-[600px] object-cover object-center transition-transform duration-700 group-hover:scale-105"
             />
