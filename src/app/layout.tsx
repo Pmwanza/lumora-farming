@@ -11,7 +11,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Lumora Farming | Agricultural Drone Services and Precision Agriculture in Zambia",
-  description: "Advanced Drone Spraying, Spreading & Seeding and Mapping engineered for Zambian agricultural conditions. Increase efficiency, lower costs, and protect your crops with centimeter level accuracy.",
+  description: "Advanced Drone Spraying, Spreading & Seeding and Mapping engineered for Zambian agricultural conditions.",
 };
 
 export default function RootLayout({
