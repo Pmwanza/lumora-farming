@@ -46,7 +46,7 @@ export default function Technology() {
           <div>
             <h2 className="text-brand font-semibold tracking-wide uppercase text-sm mb-3">Superior Technology</h2>
             <h3 className="text-3xl md:text-5xl font-extrabold text-primary tracking-tight mb-8">
-              Why Drone Tech is the Future of Farming
+              Why Drone Tech is the Future of Farming in Zambia
             </h3>
             <p className="text-lg text-gray-600 mb-10 leading-relaxed">
               We understand the unique challenges of Zambian agriculture. From unpredictable weather windows to rising input costs, traditional farming methods are no longer sufficient. Our state-of-the-art drone fleet is the ultimate equalizer.
